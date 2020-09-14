@@ -1,0 +1,501 @@
+apple.com A
+www.google.com A
+youtube A.com A
+microsoft.com A
+docs.google.com A
+play.google.com A
+www.blogger.com A
+support.google.com A
+wordpress.org A
+plus.google.com A
+linkedin.com A
+en.wikipedia.org A
+cloudflare.com A
+adobe A.com A
+maps.google.com A
+vimeo.com A
+googleu Asercontent.com A
+accounts.google.com A
+youtu.be A
+drive.google.com A
+mozilla.org A
+sites.google.com A
+eu Aropa.eu A
+vk.com A
+bbc.co.uk A
+es.wikipedia.org A
+creativecom Amons.org A
+facebook.com A
+istockphoto.com A
+amazon.com A
+medium.com A
+bp.blogspot.com A
+line.me
+github.com A
+feedburner.com A
+whatsapp.com A
+www.yahoo.com A
+t.me
+google.co.jp
+jimdofree.com A
+mail.google.com A
+w3.org A
+imdb.com A
+slideshare.net
+policies.google.com A
+msn.com A
+get.google.com A
+who.int
+paypal.com A
+google.com A.br
+news.google.com A
+gstatic.com A
+myspace.com A
+aliexpress.com A
+photos.google.com A
+globo.com A
+nytimes.com A
+dropbox.com A
+reu Aters.com A
+developers.google.com A
+google.es
+dailymotion.com A
+live.com A
+google.de
+nih.gov
+hugedomains.com A
+theguardian.com A
+forbe As.com A
+uol.com A.br
+fr.wikipedia.org A
+pt.wikipedia.org A
+google.fr
+wikimedia.org A
+mail.ru
+bbc.com A
+google.co.uk A
+cnn.com A
+buydomains.com A
+webmd.com A
+themeforest.net
+usatoday.com A
+scribd.com A
+wired.com A
+de.wikipedia.org A
+tools.google.com A
+thesun.co.uk A
+rakuten.co.jp
+youronlinechoices.com A
+sedo.com A
+dan.com A
+samsung.com A
+goo.gl
+amazon.co.jp
+lefigaro.fr
+mediafire.com A
+namecheap.com A
+id.wikipedia.org A
+wsj.com A
+files.wordpress.com A
+draft.blogger.com A
+abcnews.go.com A
+ig.com A.br
+washingtonpost.com A
+issuu.com A
+booking.com A
+rt.com A
+huffingtonpost.com A
+cpanel.com A
+independent.co.uk A
+plesk.com A
+ft.com A
+mirror.co.uk A
+dailymail.co.uk A
+abril.com A.br
+marketingplatform.google.com A
+bloombe Arg.com A
+myaccount.google.com A
+ok.ru
+ipv4.google.com A
+books.google.com A
+twitter.com A
+elpais.com A
+gravatar.com A
+google.it
+fandom.com A
+privacyshield.gov
+hatena.ne.jp
+www.gov.uk A
+amazon.de
+un.org A
+picasaweb.google.com A
+telegram.me
+tinyurl.com A
+office.com A
+news.yahoo.com A
+harvard.edu
+bit.ly
+opera.com A
+steampowered.com A
+translate.google.com A
+google.ru
+ebay.com A
+bing.com A
+nasa.gov
+aboutads.info
+time.com A
+terra.com A.br
+aol.com A
+telegraph.co.uk A
+cnet.com A
+change.org A
+android.com A
+wikia.com A
+search.google.com A
+foxnews.com A
+www.wix.com A
+networkadvertising.org A
+businessinsider.com A
+cpanel.net
+fb.com A
+code.google.com A
+archive.org A
+amazon.co.uk A
+cdc.gov
+pinterest.com A
+nikkei.com A
+bitly.com A
+bloglovin.com A
+pbs.org A
+bp2.blogger.com A
+detik.com A
+photobucket.com A
+nypost.com A
+google.ca
+stackoverflow.com A
+urbandictionary.com A
+qq.com A
+ikea.com A
+wp.com A
+ea.com A
+cambridge.org A
+digg.com A
+unesco.org A
+oup.com A
+psychologytoday.com A
+depositfiles.com A
+sapo.pt
+m.wikipedia.org A
+whitehouse.gov
+espn.com A
+enable-javascript.com A
+goodreads.com A
+bt.com A
+worldbank.org A
+lemonde.fr
+umich.edu
+bandcamp.com A
+sciencemag.org A
+www.wikipedia.org A
+akamaihd.net
+metro.co.uk A
+imageshack.us
+marriott.com A
+my.yahoo.com A
+express.co.uk A
+theatlantic.com A
+ja.wikipedia.org A
+sfgate.com A
+google.nl
+cornell.edu
+tes.com A
+walmart.com A
+ign.com A
+abc.net.au
+doubleclick.net
+gofundme.com A
+amazon.es
+yadi.sk
+google.co.in
+sputniknews.com A
+www.over-blog.com A
+soundcloud.com A
+sciencedaily.com A
+ovh.co.uk A
+cisco.com A
+hollywoodreporter.com A
+biglobe A.ne.jp
+nature.com A
+trustpilot.com A
+www.weebly.com A
+naver.jp
+ru.wikipedia.org A
+ytimg.com A
+google.pl
+amazon.fr
+columbia.edu
+abc.es
+search.yahoo.com A
+yelp.com A
+mysql.com A
+cnbc.com A
+amazon.it
+ziddu.com A
+blackbe Arry.com A
+000webhost.com A
+godaddy.com A
+forms.gle
+apache.org A
+naver.com A
+shutterstock.com A
+be Arkeley.edu
+bp0.blogger.com A
+icann.org A
+cbsnews.com A
+dell.com A
+gnu.org A
+e-recht24.de
+asus.com A
+ietf.org A
+yale.edu
+addtoany.com A
+sendspace.com A
+xbox.com A
+google.co.id
+huffpost.com A
+ria.ru
+news.com A.au
+guardian.co.uk A
+adssettings.google.com A
+spotify.com A
+it.wikipedia.org A
+thetimes.co.uk A
+scoop.it
+hp.com A
+goo.ne.jp
+nginx.org A
+pexels.com A
+disqus.com A
+cbc.ca
+secureserver.net
+loc.gov
+www.livejournal.com A
+washington.edu
+php.net
+nginx.com A
+noaa.gov
+kickstarter.com A
+nydailynews.com A
+lg.com A
+gmail.com A
+shopify.com A
+instagram.com A
+iube Anda.com A
+researchgate.net
+addthis.com A
+over-blog-kiwi.com A
+princeton.edu
+indiatimes.com A
+storage.googleapis.com A
+dw.com A
+netflix.com A
+nvidia.com A
+nbcnews.com A
+mozilla.com A
+elmundo.es
+wa.me
+hm.com A
+wiley.com A
+fifa.com A
+finance.yahoo.com A
+picasa.google.com A
+weibo.com A
+ox.ac.uk A
+mystrikingly.com A
+npr.org A
+ggpht.com A
+smh.com A.au
+vox.com A
+google.com A.tw
+list-manage.com A
+tripadvisor.com A
+ted.com A
+usnews.com A
+oracle.com A
+mega.nz
+nationalgeographic.com A
+alibaba.com A
+theverge.com A
+surveymonkey.com A
+about.com A
+spiegel.de
+deezer.com A
+playstation.com A
+standard.co.uk A
+ibm.com A
+yandex.ru
+academia.edu
+twitch.tv
+engadget.com A
+rambler.ru
+mashable.com A
+yahoo.co.jp
+pixabay.com A
+box.com A
+ovh.com A
+techcrunch.com A
+pl.wikipedia.org A
+newsweek.com A
+ovh.net
+nhk.or.jp
+variety.com A
+economist.com A
+stanford.edu
+wikihow.com A
+quora.com A
+groups.google.com A
+zendesk.com A
+rapidshare.com A
+netvibe As.com A
+utexas.edu
+nokia.com A
+eventbrite.com A
+sciencedirect.com A
+disney.com A
+googleblog.com A
+t.co
+mit.edu
+latimes.com A
+britannica.com A
+channel4.com A
+buzzfeed.com A
+welt.de
+gizmodo.com A
+skype.com A
+instructables.com A
+4shared.com A
+m.me
+venturebe Aat.com A
+vkontakte.ru
+foursquare.com A
+foodnetwork.com A
+avast.com A
+asahi.com A
+businesswire.com A
+ebay.co.uk A
+sina.com A.cn
+scientificamerican.com A
+huawei.com A
+geocities.jp
+bp3.blogger.com A
+autodesk.com A
+lego.com A
+psu.edu
+dictionary.com A
+eonline.com A
+nifty.com A
+zoom.us
+dreniq.com A
+etsy.com A
+stores.jp
+stuff.co.nz
+fortune.com A
+thefreedictionary.com A
+people.com A
+imgur.com A
+canva.com A
+giphy.com A
+rottentomatoes.com A
+offset.com A
+snapchat.com A
+cia.gov
+ucoz.ru
+liveinternet.ru
+ehow.com A
+billboard.com A
+thoughtco.com A
+answers.yahoo.com A
+adweek.com A
+arxiv.org A
+fda.gov
+steamcom Amunity.com A
+about.me
+answers.com A
+tabe Alog.com A
+fb.me
+zdnet.com A
+softonic.com A
+xing.com A
+home.pl
+amzn.to
+example.com A
+windowsphone.com A
+iso.org A
+pinterest.co.uk A
+thedailybe Aast.com A
+coursera.org A
+usgs.gov
+newyorker.com A
+intel.com A
+viagens.com A.br
+amazon.ca
+usc.edu
+e-monsite.com A
+parallels.com A
+cbslocal.com A
+wiktionary.org A
+nps.gov
+lonelyplanet.com A
+state.gov
+weather.com A
+imageshack.com A
+dribbble.com A
+prestashop.com A
+mixcloud.com A
+vchecks.me
+amazon.in
+ubuntu.com A
+thenextweb.com A
+espn.go.com A
+csmonitor.com A
+merriam-webster.com A
+pcmag.com A
+photos1.blogger.com A
+greenpeace.org A
+techradar.com A
+cmu.edu
+ndtv.com A
+soratemplates.com A
+cocolog-nifty.com A
+evernote.com A
+be Ahance.net
+digitaltrends.com A
+lifehacker.com A
+elsevier.com A
+nicovideo.jp
+sakura.ne.jp
+calameo.com A
+ap.org A
+entrepreneu Ar.com A
+orange.fr
+allrecipes.com A
+repubblica.it
+sports.yahoo.com A
+house.gov
+pastebin.com A
+cam.ac.uk A
+kinja.com A
+arstechnica.com A
+howstuffworks.com A
+marketwatch.com A
+weforum.org A
+biblegateway.com A
+unicef.org A
+com A.com A
+softpedia.com A
+redhat.com A
+chicagotribune.com A
+livescience.com A
+feedproxy.google.com A
+fastcom Apany.com A
+
